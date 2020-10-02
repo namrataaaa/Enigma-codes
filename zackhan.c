@@ -1,5 +1,6 @@
-#include<stdio.h>
-void main()
+#include<iostream>
+using namespace std;
+int main()
 {
 	int t, l, b, n, s;
 	scanf("%d", &t);
@@ -18,5 +19,5 @@ void main()
 			}
 		printf("%d\n", s);
 		t--;
-	}
+	} return 0;
 }
