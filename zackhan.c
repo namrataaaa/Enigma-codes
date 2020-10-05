@@ -2,7 +2,9 @@
 using namespace std;
 int main()
 {
-	int t, l, b, n, s;
+	int t, l, b, n ;
+	float s;
+	
 	scanf("%d", &t);
 	while(t>0)
 	{
