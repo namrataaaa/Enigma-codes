@@ -1,2 +1,2 @@
 # Enigma-codes
-this is my repository which will contain all my enigma codes.
+This repository will contain all my enigma codes and allow others to contribute their codes as well.
