@@ -16,7 +16,7 @@ int main()
 			a=l;
 			for(int i=1; i<=a; i++)
 			{
-				if(l%i==0 && b%i==0)
+				if(l%i==0 && b%i==0 && l!=b)
 					s = i;
 			}
 		printf("%d\n", s);
