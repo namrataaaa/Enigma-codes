@@ -18,6 +18,7 @@ int main()
 			{
 				if(l%i==0 && b%i==0 && l!=b)
 					s = i;
+				s++;
 			}
 		printf("%d\n", s);
 		t--;
